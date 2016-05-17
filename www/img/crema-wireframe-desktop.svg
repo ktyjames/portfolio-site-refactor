@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2273px" height="1568px" viewBox="0 0 2273 1568" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16044) - http://www.bohemiancoding.com/sketch -->
+    <title>crema-wireframe-desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="crema-wireframe-desktop" sketch:type="MSArtboardGroup">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(43.000000, 44.000000)">
+                <rect id="Rectangle-91" fill="#E2E2E2" sketch:type="MSShapeGroup" x="874" y="90" width="180" height="610"></rect>
+                <rect id="Rectangle-84" fill="#E3E3E3" sketch:type="MSShapeGroup" x="2" y="90" width="211.871094" height="610"></rect>
+                <rect id="Rectangle-86" fill="#D8D8D8" sketch:type="MSShapeGroup" x="2" y="328" width="211.871094" height="372"></rect>
+                <text id="Crema" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="36" y="150">Crema</tspan>
+                </text>
+                <text id="Shop-Name" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="36" y="268">Shop Name</tspan>
+                </text>
+                <g id="Browser-Wireframe">
+                    <rect id="Browser-background" stroke="#A5A5A5" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1057" height="700" rx="6"></rect>
+                    <path d="M524.605531,27.4915416 C523.268811,24.4586469 524.880391,22 528.178102,22 L549.821898,22 C553.131694,22 556.724823,24.5330138 557.84499,27.6510023 L563,42 L531,42 L524.605531,27.4915416 Z" id="New-Tab" stroke="#B2B2B2" stroke-width="2" opacity="0.595207556" fill-opacity="0.05" fill="#A1A7BE" sketch:type="MSShapeGroup"></path>
+                    <g id="Tab1" transform="translate(90.000000, 16.000000)">
+                        <path d="M9.89602771,5.61059278 C11.0580195,2.51194795 14.694714,0 17.9992036,0 L206.000796,0 C209.314065,0 212.94162,2.51098633 214.103972,5.61059278 L224,32 L0,32 L9.89602771,5.61059278 Z" id="Background-Tab1" stroke="#BFBFBF" stroke-width="2" fill-opacity="0.05" fill="#A1A7BE" sketch:type="MSShapeGroup"></path>
+                        <rect id="Favicon-Tab1" fill="#C7C7C7" sketch:type="MSShapeGroup" x="22" y="8" width="16" height="16"></rect>
+                        <text id="Title-Tab1" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#A3A3A3">
+                            <tspan x="44" y="22">Google</tspan>
+                        </text>
+                        <path d="M198,14.8 L197.2,14 L194,17.2 L190.8,14 L190,14.8 L193.2,18 L190,21.2 L190.8,22 L194,18.8 L197.2,22 L198,21.2 L194.8,18 L198,14.8 Z" id="Close-Tab1" fill="#B8B8B8" sketch:type="MSShapeGroup"></path>
+                    </g>
+                    <g id="Search-Bar-+-Tab-2" transform="translate(2.000000, 16.000000)">
+                        <path d="M302.75,30 L0,30 L0,74 L1053,74 L1053,30 L525.25,30 L516.103972,5.61059278 C514.94162,2.51098633 511.314065,0 508.000796,0 L319.999204,0 C316.694714,0 313.05802,2.51194795 311.896028,5.61059278 L302.75,30 Z" id="Tab-2-+-Searchbar" stroke="#A5A5A5" stroke-width="2" fill="#D9D9D9" sketch:type="MSShapeGroup"></path>
+                        <rect id="Search-Bar" stroke="#A5A5A5" stroke-width="2" fill-opacity="0.728006114" fill="#FFFFFF" sketch:type="MSShapeGroup" x="110" y="40" width="875" height="24"></rect>
+                        <g id="Tab-2" transform="translate(322.000000, 8.000000)">
+                            <rect id="Favicon-Tab2" fill="#A2A2A2" sketch:type="MSShapeGroup" x="0" y="0" width="16" height="16"></rect>
+                            <text id="Crema" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#A5A5A5">
+                                <tspan x="24" y="15">Crema</tspan>
+                            </text>
+                            <path d="M182,6.8 L181.2,6 L178,9.2 L174.8,6 L174,6.8 L177.2,10 L174,13.2 L174.8,14 L178,10.8 L181.2,14 L182,13.2 L178.8,10 L182,6.8 Z" id="Close-Tab2" fill="#A2A2A2" sketch:type="MSShapeGroup"></path>
+                        </g>
+                        <path d="M1011,60 L1031,60 L1031,57.3333333 L1011,57.3333333 L1011,60 L1011,60 Z M1011,53.3333333 L1031,53.3333333 L1031,50.6666667 L1011,50.6666667 L1011,53.3333333 L1011,53.3333333 Z M1011,44 L1011,46.6666667 L1031,46.6666667 L1031,44 L1011,44 L1011,44 Z" id="Menu" fill="#A2A2A2" sketch:type="MSShapeGroup"></path>
+                        <path d="M91.6,46.4 C90.2,44.9 88.2,44 86,44 C81.6,44 78,47.6 78,52 C78,56.4 81.6,60 86,60 C89.7,60 92.8,57.4 93.7,54 L91.6,54 C90.8,56.3 88.6,58 86,58 C82.7,58 80,55.3 80,52 C80,48.7 82.7,46 86,46 C87.7,46 89.1,46.7 90.2,47.8 L87,51 L94,51 L94,44 L91.6,46.4 L91.6,46.4 Z" id="Refresh" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                        <path d="M52,44 L50.6,45.4 L56.2,51 L44,51 L44,53 L56.2,53 L50.6,58.6 L52,60 L60,52 L52,44 Z" id="Next" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                        <path d="M30,51 L17.8,51 L23.4,45.4 L22,44 L14,52 L22,60 L23.4,58.6 L17.8,53 L30,53 L30,51 L30,51 Z" id="Previous" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                    </g>
+                    <g id="Window-button-OSX" transform="translate(16.000000, 18.000000)" stroke="#A5A5A5" stroke-width="2" sketch:type="MSShapeGroup">
+                        <circle id="Extend" cx="55" cy="7" r="7"></circle>
+                        <circle id="Close" cx="7" cy="7" r="7"></circle>
+                        <circle id="Minimize" cx="31" cy="7" r="7"></circle>
+                    </g>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line" transform="translate(38.000000, 178.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="57" height="57"></rect>
+                    <path d="M0.5,0.5 L55.5,55.5" id="Line" stroke-linecap="square"></path>
+                    <path d="M1.5,56.5 L56.5,0.5" id="Line" stroke-linecap="square"></path>
+                </g>
+                <text id="Shop-Owner-Name" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="35" y="292">Shop Owner Name</tspan>
+                </text>
+                <text id="Dashboard" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#868686">
+                    <tspan x="38" y="396">Dashboard</tspan>
+                </text>
+                <text id="Message-Center" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="38" y="446">Message Center</tspan>
+                </text>
+                <text id="My-Shop" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="38" y="496">My Shop</tspan>
+                </text>
+                <rect id="Rectangle-87" fill="#E2E2E2" sketch:type="MSShapeGroup" x="255" y="114" width="573" height="257"></rect>
+                <rect id="Rectangle-87" fill="#E2E2E2" sketch:type="MSShapeGroup" x="255" y="387" width="179.726813" height="147"></rect>
+                <rect id="Rectangle-87" fill="#E2E2E2" sketch:type="MSShapeGroup" x="453.086003" y="387" width="179.726813" height="147"></rect>
+                <rect id="Rectangle-87" fill="#E2E2E2" sketch:type="MSShapeGroup" x="648.273187" y="387" width="179.726813" height="147"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="256" y="190" width="16" height="180"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="286" y="223" width="16" height="147"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="316" y="206" width="16" height="165"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="346" y="155" width="16" height="216"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="376" y="177" width="16" height="194"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="406" y="177" width="16" height="194"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="436" y="206" width="16" height="165"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="466" y="224" width="16" height="147"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="496" y="206" width="16" height="165"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="526" y="243" width="16" height="129"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="556" y="192" width="16" height="180"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="586" y="178" width="16" height="194"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="616" y="243" width="16" height="129"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="646" y="192" width="16" height="180"></rect>
+                <rect id="Rectangle-92" fill="#C6C6C6" sketch:type="MSShapeGroup" x="676" y="178" width="16" height="194"></rect>
+                <path d="M257.496094,279.785156 L299.941406,318.824219 L332.570312,300.785156 L362.238281,286.414062 L391.90625,292.601562 L423.132812,278.488281 L451.613281,280.96875 L481.984375,307.414062 L510.691406,320.785156 L543.320312,306.453125 L574.46875,288.378906 L601.472656,275.488281 L632.398438,276.96875 L661.03125,290.042969 L693.214844,271.230469 L692.957031,371.492188 L257.308594,370.753906 L257.496094,279.785156 Z" id="Path-128" stroke="#979797" fill-opacity="0.573284647" fill="#9D9D9D" sketch:type="MSShapeGroup"></path>
+                <text id="200" sketch:type="MSTextLayer" font-family="Helvetica" font-size="20" font-weight="normal" fill="#868686">
+                    <tspan x="716" y="202">200</tspan>
+                </text>
+                <text id="50" sketch:type="MSTextLayer" font-family="Helvetica" font-size="20" font-weight="normal" fill="#868686">
+                    <tspan x="716" y="263">50</tspan>
+                </text>
+                <text id="125" sketch:type="MSTextLayer" font-family="Helvetica" font-size="20" font-weight="normal" fill="#868686">
+                    <tspan x="716" y="324">125</tspan>
+                </text>
+                <text id="Messages-Sent" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" fill="#868686">
+                    <tspan x="716" y="220">Messages Sent</tspan>
+                </text>
+                <text id="Stories" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" fill="#868686">
+                    <tspan x="716" y="281">Stories</tspan>
+                </text>
+                <text id="Favorites" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" fill="#868686">
+                    <tspan x="716" y="342">Favorites</tspan>
+                </text>
+                <text id="Visits" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" fill="#868686">
+                    <tspan x="278" y="426">Visits</tspan>
+                </text>
+                <text id="User-Activity" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" fill="#868686">
+                    <tspan x="478" y="426">User Activity</tspan>
+                </text>
+                <text id="Orders" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" fill="#868686">
+                    <tspan x="668" y="426">Orders</tspan>
+                </text>
+                <g id="Rectangle-38-+-Line-+-Line-+-Lorem-ipsum-solor-de" transform="translate(891.000000, 153.000000)">
+                    <g id="Rectangle-38-+-Line-+-Line" transform="translate(0.000000, 2.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="29" height="29"></rect>
+                        <path d="M0.254385965,0.254385965 L28.2368421,28.2368421" id="Line" stroke-linecap="square"></path>
+                        <path d="M0.763157895,28.745614 L28.745614,0.254385965" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Lorem-ipsum-solor-de" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                        <tspan x="42" y="10">Lorem ipsum solor </tspan>
+                        <tspan x="42" y="23">demet lorem ipsum </tspan>
+                        <tspan x="42" y="36">solor demet</tspan>
+                    </text>
+                </g>
+                <text id="Recent-Stories" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#868686">
+                    <tspan x="891" y="127">Recent Stories</tspan>
+                </text>
+                <g id="Rectangle-38-+-Line-+-Line-+-Lorem-ipsum-solor-de" transform="translate(891.000000, 213.000000)">
+                    <g id="Rectangle-38-+-Line-+-Line" transform="translate(0.000000, 2.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="29" height="29"></rect>
+                        <path d="M0.254385965,0.254385965 L28.2368421,28.2368421" id="Line" stroke-linecap="square"></path>
+                        <path d="M0.763157895,28.745614 L28.745614,0.254385965" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Lorem-ipsum-solor-de" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                        <tspan x="42" y="10">Lorem ipsum solor </tspan>
+                        <tspan x="42" y="23">demet lorem ipsum </tspan>
+                        <tspan x="42" y="36">solor demet</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line-+-Lorem-ipsum-solor-de" transform="translate(891.000000, 273.000000)">
+                    <g id="Rectangle-38-+-Line-+-Line" transform="translate(0.000000, 2.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="29" height="29"></rect>
+                        <path d="M0.254385965,0.254385965 L28.2368421,28.2368421" id="Line" stroke-linecap="square"></path>
+                        <path d="M0.763157895,28.745614 L28.745614,0.254385965" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Lorem-ipsum-solor-de" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                        <tspan x="42" y="10">Lorem ipsum solor </tspan>
+                        <tspan x="42" y="23">demet lorem ipsum </tspan>
+                        <tspan x="42" y="36">solor demet</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line-+-Lorem-ipsum-solor-de" transform="translate(891.000000, 333.000000)">
+                    <g id="Rectangle-38-+-Line-+-Line" transform="translate(0.000000, 2.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="29" height="29"></rect>
+                        <path d="M0.254385965,0.254385965 L28.2368421,28.2368421" id="Line" stroke-linecap="square"></path>
+                        <path d="M0.763157895,28.745614 L28.745614,0.254385965" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Lorem-ipsum-solor-de" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                        <tspan x="42" y="10">Lorem ipsum solor </tspan>
+                        <tspan x="42" y="23">demet lorem ipsum </tspan>
+                        <tspan x="42" y="36">solor demet</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line-+-Lorem-ipsum-solor-de" transform="translate(891.000000, 393.000000)">
+                    <g id="Rectangle-38-+-Line-+-Line" transform="translate(0.000000, 2.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="29" height="29"></rect>
+                        <path d="M0.254385965,0.254385965 L28.2368421,28.2368421" id="Line" stroke-linecap="square"></path>
+                        <path d="M0.763157895,28.745614 L28.745614,0.254385965" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Lorem-ipsum-solor-de" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                        <tspan x="42" y="10">Lorem ipsum solor </tspan>
+                        <tspan x="42" y="23">demet lorem ipsum </tspan>
+                        <tspan x="42" y="36">solor demet</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line-+-Lorem-ipsum-solor-de" transform="translate(891.000000, 453.000000)">
+                    <g id="Rectangle-38-+-Line-+-Line" transform="translate(0.000000, 2.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="29" height="29"></rect>
+                        <path d="M0.254385965,0.254385965 L28.2368421,28.2368421" id="Line" stroke-linecap="square"></path>
+                        <path d="M0.763157895,28.745614 L28.745614,0.254385965" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Lorem-ipsum-solor-de" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                        <tspan x="42" y="10">Lorem ipsum solor </tspan>
+                        <tspan x="42" y="23">demet lorem ipsum </tspan>
+                        <tspan x="42" y="36">solor demet</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line-+-Lorem-ipsum-solor-de" transform="translate(891.000000, 513.000000)">
+                    <g id="Rectangle-38-+-Line-+-Line" transform="translate(0.000000, 2.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="29" height="29"></rect>
+                        <path d="M0.254385965,0.254385965 L28.2368421,28.2368421" id="Line" stroke-linecap="square"></path>
+                        <path d="M0.763157895,28.745614 L28.745614,0.254385965" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Lorem-ipsum-solor-de" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                        <tspan x="42" y="10">Lorem ipsum solor </tspan>
+                        <tspan x="42" y="23">demet lorem ipsum </tspan>
+                        <tspan x="42" y="36">solor demet</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line-+-Lorem-ipsum-solor-de" transform="translate(891.000000, 573.000000)">
+                    <g id="Rectangle-38-+-Line-+-Line" transform="translate(0.000000, 2.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="29" height="29"></rect>
+                        <path d="M0.254385965,0.254385965 L28.2368421,28.2368421" id="Line" stroke-linecap="square"></path>
+                        <path d="M0.763157895,28.745614 L28.745614,0.254385965" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Lorem-ipsum-solor-de" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                        <tspan x="42" y="10">Lorem ipsum solor </tspan>
+                        <tspan x="42" y="23">demet lorem ipsum </tspan>
+                        <tspan x="42" y="36">solor demet</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line-+-Lorem-ipsum-solor-de" transform="translate(891.000000, 633.000000)">
+                    <g id="Rectangle-38-+-Line-+-Line" transform="translate(0.000000, 2.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="29" height="29"></rect>
+                        <path d="M0.254385965,0.254385965 L28.2368421,28.2368421" id="Line" stroke-linecap="square"></path>
+                        <path d="M0.763157895,28.745614 L28.745614,0.254385965" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Lorem-ipsum-solor-de" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                        <tspan x="42" y="10">Lorem ipsum solor </tspan>
+                        <tspan x="42" y="23">demet lorem ipsum </tspan>
+                        <tspan x="42" y="36">solor demet</tspan>
+                    </text>
+                </g>
+                <text id="200,030" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="normal" fill="#868686">
+                    <tspan x="278" y="464.775391">200,030</tspan>
+                </text>
+                <text id="This-Month" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                    <tspan x="277" y="485">This Month</tspan>
+                </text>
+                <text id="50,000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="normal" fill="#868686">
+                    <tspan x="478" y="464.775391">50,000</tspan>
+                </text>
+                <text id="This-Month" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                    <tspan x="477" y="485">This Month</tspan>
+                </text>
+                <text id="80,000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="normal" fill="#868686">
+                    <tspan x="668" y="464.775391">80,000</tspan>
+                </text>
+                <text id="This-Month" sketch:type="MSTextLayer" font-family="Helvetica" font-size="11" font-weight="normal" fill="#868686">
+                    <tspan x="667" y="485">This Month</tspan>
+                </text>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(1155.000000, 44.000000)">
+                <rect id="Rectangle-84" fill="#E3E3E3" sketch:type="MSShapeGroup" x="2" y="90" width="211.871094" height="610"></rect>
+                <rect id="Rectangle-86" fill="#D8D8D8" sketch:type="MSShapeGroup" x="2" y="328" width="211.871094" height="372"></rect>
+                <text id="Crema" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="36" y="150">Crema</tspan>
+                </text>
+                <text id="Shop-Name" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="36" y="268">Shop Name</tspan>
+                </text>
+                <g id="Browser-Wireframe">
+                    <rect id="Browser-background" stroke="#A5A5A5" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1057" height="700" rx="6"></rect>
+                    <path d="M524.605531,27.4915416 C523.268811,24.4586469 524.880391,22 528.178102,22 L549.821898,22 C553.131694,22 556.724823,24.5330138 557.84499,27.6510023 L563,42 L531,42 L524.605531,27.4915416 Z" id="New-Tab" stroke="#B2B2B2" stroke-width="2" opacity="0.595207556" fill-opacity="0.05" fill="#A1A7BE" sketch:type="MSShapeGroup"></path>
+                    <g id="Tab1" transform="translate(90.000000, 16.000000)">
+                        <path d="M9.89602771,5.61059278 C11.0580195,2.51194795 14.694714,0 17.9992036,0 L206.000796,0 C209.314065,0 212.94162,2.51098633 214.103972,5.61059278 L224,32 L0,32 L9.89602771,5.61059278 Z" id="Background-Tab1" stroke="#BFBFBF" stroke-width="2" fill-opacity="0.05" fill="#A1A7BE" sketch:type="MSShapeGroup"></path>
+                        <rect id="Favicon-Tab1" fill="#C7C7C7" sketch:type="MSShapeGroup" x="22" y="8" width="16" height="16"></rect>
+                        <text id="Title-Tab1" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#A3A3A3">
+                            <tspan x="44" y="22">Google</tspan>
+                        </text>
+                        <path d="M198,14.8 L197.2,14 L194,17.2 L190.8,14 L190,14.8 L193.2,18 L190,21.2 L190.8,22 L194,18.8 L197.2,22 L198,21.2 L194.8,18 L198,14.8 Z" id="Close-Tab1" fill="#B8B8B8" sketch:type="MSShapeGroup"></path>
+                    </g>
+                    <g id="Search-Bar-+-Tab-2" transform="translate(2.000000, 16.000000)">
+                        <path d="M302.75,30 L0,30 L0,74 L1053,74 L1053,30 L525.25,30 L516.103972,5.61059278 C514.94162,2.51098633 511.314065,0 508.000796,0 L319.999204,0 C316.694714,0 313.05802,2.51194795 311.896028,5.61059278 L302.75,30 Z" id="Tab-2-+-Searchbar" stroke="#A5A5A5" stroke-width="2" fill="#D9D9D9" sketch:type="MSShapeGroup"></path>
+                        <rect id="Search-Bar" stroke="#A5A5A5" stroke-width="2" fill-opacity="0.728006114" fill="#FFFFFF" sketch:type="MSShapeGroup" x="110" y="40" width="875" height="24"></rect>
+                        <g id="Tab-2" transform="translate(322.000000, 8.000000)">
+                            <rect id="Favicon-Tab2" fill="#A2A2A2" sketch:type="MSShapeGroup" x="0" y="0" width="16" height="16"></rect>
+                            <text id="Crema" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#A5A5A5">
+                                <tspan x="24" y="15">Crema</tspan>
+                            </text>
+                            <path d="M182,6.8 L181.2,6 L178,9.2 L174.8,6 L174,6.8 L177.2,10 L174,13.2 L174.8,14 L178,10.8 L181.2,14 L182,13.2 L178.8,10 L182,6.8 Z" id="Close-Tab2" fill="#A2A2A2" sketch:type="MSShapeGroup"></path>
+                        </g>
+                        <path d="M1011,60 L1031,60 L1031,57.3333333 L1011,57.3333333 L1011,60 L1011,60 Z M1011,53.3333333 L1031,53.3333333 L1031,50.6666667 L1011,50.6666667 L1011,53.3333333 L1011,53.3333333 Z M1011,44 L1011,46.6666667 L1031,46.6666667 L1031,44 L1011,44 L1011,44 Z" id="Menu" fill="#A2A2A2" sketch:type="MSShapeGroup"></path>
+                        <path d="M91.6,46.4 C90.2,44.9 88.2,44 86,44 C81.6,44 78,47.6 78,52 C78,56.4 81.6,60 86,60 C89.7,60 92.8,57.4 93.7,54 L91.6,54 C90.8,56.3 88.6,58 86,58 C82.7,58 80,55.3 80,52 C80,48.7 82.7,46 86,46 C87.7,46 89.1,46.7 90.2,47.8 L87,51 L94,51 L94,44 L91.6,46.4 L91.6,46.4 Z" id="Refresh" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                        <path d="M52,44 L50.6,45.4 L56.2,51 L44,51 L44,53 L56.2,53 L50.6,58.6 L52,60 L60,52 L52,44 Z" id="Next" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                        <path d="M30,51 L17.8,51 L23.4,45.4 L22,44 L14,52 L22,60 L23.4,58.6 L17.8,53 L30,53 L30,51 L30,51 Z" id="Previous" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                    </g>
+                    <g id="Window-button-OSX" transform="translate(16.000000, 18.000000)" stroke="#A5A5A5" stroke-width="2" sketch:type="MSShapeGroup">
+                        <circle id="Extend" cx="55" cy="7" r="7"></circle>
+                        <circle id="Close" cx="7" cy="7" r="7"></circle>
+                        <circle id="Minimize" cx="31" cy="7" r="7"></circle>
+                    </g>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line" transform="translate(38.000000, 178.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="57" height="57"></rect>
+                    <path d="M0.5,0.5 L55.5,55.5" id="Line" stroke-linecap="square"></path>
+                    <path d="M1.5,56.5 L56.5,0.5" id="Line" stroke-linecap="square"></path>
+                </g>
+                <text id="Shop-Owner-Name" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="35" y="292">Shop Owner Name</tspan>
+                </text>
+                <text id="Dashboard" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="38" y="396">Dashboard</tspan>
+                </text>
+                <text id="Message-Center" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#868686">
+                    <tspan x="38" y="446">Message Center</tspan>
+                </text>
+                <text id="My-Shop" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="38" y="496">My Shop</tspan>
+                </text>
+                <rect id="Rectangle-87" fill="#E2E2E2" sketch:type="MSShapeGroup" x="249" y="119" width="767" height="553"></rect>
+                <text id="Month,-Year" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="584" y="157">Month, Year</tspan>
+                </text>
+                <rect id="Rectangle-128" fill="#F9F9F9" sketch:type="MSShapeGroup" x="268" y="178" width="729" height="475"></rect>
+                <path d="M267.5,209.5 L996.038269,209.5" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M267.5,294.5 L996.038269,294.5" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M267.5,383.5 L996.038269,383.5" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M267.5,472.5 L996.038269,472.5" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M267.5,562.5 L996.038269,562.5" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M372.5,177.5 L372.5,652.516846" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M484.5,177.5 L484.5,652.516846" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M597.5,177.5 L597.5,652.516846" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M707.5,177.5 L707.5,652.516846" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M821.5,177.5 L821.5,652.516846" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M929.5,177.5 L929.5,652.516846" id="Line" stroke="#E2E2E2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <text id="Sun" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="307" y="198">Sun</tspan>
+                </text>
+                <text id="Mon" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="415" y="198">Mon</tspan>
+                </text>
+                <text id="Tues" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="526" y="198">Tues</tspan>
+                </text>
+                <text id="Wed" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="637" y="198">Wed</tspan>
+                </text>
+                <text id="Thurs" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="745" y="198">Thurs</tspan>
+                </text>
+                <text id="Fri" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="864" y="198">Fri</tspan>
+                </text>
+                <text id="Sat" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="954" y="198">Sat</tspan>
+                </text>
+                <text id="1" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="354" y="227">1</tspan>
+                </text>
+                <text id="2" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="468" y="227">2</tspan>
+                </text>
+                <text id="3" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="581" y="227">3</tspan>
+                </text>
+                <text id="4" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="689" y="227">4</tspan>
+                </text>
+                <text id="5" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="802" y="227">5</tspan>
+                </text>
+                <text id="6" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="912" y="227">6</tspan>
+                </text>
+                <text id="7" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="979" y="227">7</tspan>
+                </text>
+                <text id="1" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="354" y="317">1</tspan>
+                </text>
+                <text id="2" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="468" y="317">2</tspan>
+                </text>
+                <text id="3" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="581" y="317">3</tspan>
+                </text>
+                <text id="4" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="689" y="317">4</tspan>
+                </text>
+                <text id="5" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="802" y="317">5</tspan>
+                </text>
+                <text id="6" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="912" y="317">6</tspan>
+                </text>
+                <text id="7" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="979" y="317">7</tspan>
+                </text>
+                <text id="1" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="354" y="405">1</tspan>
+                </text>
+                <text id="2" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="468" y="405">2</tspan>
+                </text>
+                <text id="3" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="581" y="405">3</tspan>
+                </text>
+                <text id="4" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="689" y="405">4</tspan>
+                </text>
+                <text id="5" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="802" y="405">5</tspan>
+                </text>
+                <text id="6" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="912" y="405">6</tspan>
+                </text>
+                <text id="7" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="979" y="405">7</tspan>
+                </text>
+                <text id="1" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="354" y="495">1</tspan>
+                </text>
+                <text id="2" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="468" y="495">2</tspan>
+                </text>
+                <text id="3" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="581" y="495">3</tspan>
+                </text>
+                <text id="4" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="689" y="495">4</tspan>
+                </text>
+                <text id="5" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="802" y="495">5</tspan>
+                </text>
+                <text id="6" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="912" y="495">6</tspan>
+                </text>
+                <text id="7" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="979" y="495">7</tspan>
+                </text>
+                <text id="1" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="354" y="585">1</tspan>
+                </text>
+                <text id="2" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="468" y="585">2</tspan>
+                </text>
+                <text id="3" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="581" y="585">3</tspan>
+                </text>
+                <text id="4" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="689" y="585">4</tspan>
+                </text>
+                <text id="5" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="802" y="585">5</tspan>
+                </text>
+                <text id="6" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="912" y="585">6</tspan>
+                </text>
+                <text id="7" sketch:type="MSTextLayer" font-family="Helvetica" font-size="10" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="979" y="585">7</tspan>
+                </text>
+                <rect id="Rectangle-129" fill="#D8D8D8" sketch:type="MSShapeGroup" x="268" y="236" width="105" height="15"></rect>
+                <text id="Scheduled-Message" sketch:type="MSTextLayer" font-family="Helvetica" font-size="9" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="277" y="247">Scheduled Message</tspan>
+                </text>
+                <rect id="Rectangle-129" fill="#D8D8D8" sketch:type="MSShapeGroup" x="373" y="333" width="111" height="15"></rect>
+                <text id="Scheduled-Message" sketch:type="MSTextLayer" font-family="Helvetica" font-size="9" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="388" y="344">Scheduled Message</tspan>
+                </text>
+                <rect id="Rectangle-129" fill="#D8D8D8" sketch:type="MSShapeGroup" x="597" y="333" width="111" height="15"></rect>
+                <text id="Scheduled-Message" sketch:type="MSTextLayer" font-family="Helvetica" font-size="9" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="612" y="344">Scheduled Message</tspan>
+                </text>
+                <rect id="Rectangle-129" fill="#D8D8D8" sketch:type="MSShapeGroup" x="597" y="423" width="111" height="15"></rect>
+                <text id="Scheduled-Message" sketch:type="MSTextLayer" font-family="Helvetica" font-size="9" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="612" y="434">Scheduled Message</tspan>
+                </text>
+                <rect id="Rectangle-129" fill="#D8D8D8" sketch:type="MSShapeGroup" x="821" y="423" width="108" height="15"></rect>
+                <text id="Scheduled-Message" sketch:type="MSTextLayer" font-family="Helvetica" font-size="9" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="835" y="434">Scheduled Message</tspan>
+                </text>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(630.000000, 820.000000)">
+                <rect id="Rectangle-145" fill="#E2E2E2" sketch:type="MSShapeGroup" x="272" y="597" width="714" height="103"></rect>
+                <rect id="Rectangle-84" fill="#E3E3E3" sketch:type="MSShapeGroup" x="2" y="90" width="211.871094" height="610"></rect>
+                <rect id="Rectangle-86" fill="#D8D8D8" sketch:type="MSShapeGroup" x="2" y="328" width="211.871094" height="372"></rect>
+                <text id="Crema" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="36" y="150">Crema</tspan>
+                </text>
+                <text id="Shop-Name" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="36" y="268">Shop Name</tspan>
+                </text>
+                <g id="Browser-Wireframe">
+                    <rect id="Browser-background" stroke="#A5A5A5" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1057" height="700" rx="6"></rect>
+                    <path d="M524.605531,27.4915416 C523.268811,24.4586469 524.880391,22 528.178102,22 L549.821898,22 C553.131694,22 556.724823,24.5330138 557.84499,27.6510023 L563,42 L531,42 L524.605531,27.4915416 Z" id="New-Tab" stroke="#B2B2B2" stroke-width="2" opacity="0.595207556" fill-opacity="0.05" fill="#A1A7BE" sketch:type="MSShapeGroup"></path>
+                    <g id="Tab1" transform="translate(90.000000, 16.000000)">
+                        <path d="M9.89602771,5.61059278 C11.0580195,2.51194795 14.694714,0 17.9992036,0 L206.000796,0 C209.314065,0 212.94162,2.51098633 214.103972,5.61059278 L224,32 L0,32 L9.89602771,5.61059278 Z" id="Background-Tab1" stroke="#BFBFBF" stroke-width="2" fill-opacity="0.05" fill="#A1A7BE" sketch:type="MSShapeGroup"></path>
+                        <rect id="Favicon-Tab1" fill="#C7C7C7" sketch:type="MSShapeGroup" x="22" y="8" width="16" height="16"></rect>
+                        <text id="Title-Tab1" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#A3A3A3">
+                            <tspan x="44" y="22">Google</tspan>
+                        </text>
+                        <path d="M198,14.8 L197.2,14 L194,17.2 L190.8,14 L190,14.8 L193.2,18 L190,21.2 L190.8,22 L194,18.8 L197.2,22 L198,21.2 L194.8,18 L198,14.8 Z" id="Close-Tab1" fill="#B8B8B8" sketch:type="MSShapeGroup"></path>
+                    </g>
+                    <g id="Search-Bar-+-Tab-2" transform="translate(2.000000, 16.000000)">
+                        <path d="M302.75,30 L0,30 L0,74 L1053,74 L1053,30 L525.25,30 L516.103972,5.61059278 C514.94162,2.51098633 511.314065,0 508.000796,0 L319.999204,0 C316.694714,0 313.05802,2.51194795 311.896028,5.61059278 L302.75,30 Z" id="Tab-2-+-Searchbar" stroke="#A5A5A5" stroke-width="2" fill="#D9D9D9" sketch:type="MSShapeGroup"></path>
+                        <rect id="Search-Bar" stroke="#A5A5A5" stroke-width="2" fill-opacity="0.728006114" fill="#FFFFFF" sketch:type="MSShapeGroup" x="110" y="40" width="875" height="24"></rect>
+                        <g id="Tab-2" transform="translate(322.000000, 8.000000)">
+                            <rect id="Favicon-Tab2" fill="#A2A2A2" sketch:type="MSShapeGroup" x="0" y="0" width="16" height="16"></rect>
+                            <text id="Crema" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#A5A5A5">
+                                <tspan x="24" y="15">Crema</tspan>
+                            </text>
+                            <path d="M182,6.8 L181.2,6 L178,9.2 L174.8,6 L174,6.8 L177.2,10 L174,13.2 L174.8,14 L178,10.8 L181.2,14 L182,13.2 L178.8,10 L182,6.8 Z" id="Close-Tab2" fill="#A2A2A2" sketch:type="MSShapeGroup"></path>
+                        </g>
+                        <path d="M1011,60 L1031,60 L1031,57.3333333 L1011,57.3333333 L1011,60 L1011,60 Z M1011,53.3333333 L1031,53.3333333 L1031,50.6666667 L1011,50.6666667 L1011,53.3333333 L1011,53.3333333 Z M1011,44 L1011,46.6666667 L1031,46.6666667 L1031,44 L1011,44 L1011,44 Z" id="Menu" fill="#A2A2A2" sketch:type="MSShapeGroup"></path>
+                        <path d="M91.6,46.4 C90.2,44.9 88.2,44 86,44 C81.6,44 78,47.6 78,52 C78,56.4 81.6,60 86,60 C89.7,60 92.8,57.4 93.7,54 L91.6,54 C90.8,56.3 88.6,58 86,58 C82.7,58 80,55.3 80,52 C80,48.7 82.7,46 86,46 C87.7,46 89.1,46.7 90.2,47.8 L87,51 L94,51 L94,44 L91.6,46.4 L91.6,46.4 Z" id="Refresh" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                        <path d="M52,44 L50.6,45.4 L56.2,51 L44,51 L44,53 L56.2,53 L50.6,58.6 L52,60 L60,52 L52,44 Z" id="Next" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                        <path d="M30,51 L17.8,51 L23.4,45.4 L22,44 L14,52 L22,60 L23.4,58.6 L17.8,53 L30,53 L30,51 L30,51 Z" id="Previous" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                    </g>
+                    <g id="Window-button-OSX" transform="translate(16.000000, 18.000000)" stroke="#A5A5A5" stroke-width="2" sketch:type="MSShapeGroup">
+                        <circle id="Extend" cx="55" cy="7" r="7"></circle>
+                        <circle id="Close" cx="7" cy="7" r="7"></circle>
+                        <circle id="Minimize" cx="31" cy="7" r="7"></circle>
+                    </g>
+                </g>
+                <g id="Rectangle-38-+-Line-+-Line" transform="translate(38.000000, 178.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="57" height="57"></rect>
+                    <path d="M0.5,0.5 L55.5,55.5" id="Line" stroke-linecap="square"></path>
+                    <path d="M1.5,56.5 L56.5,0.5" id="Line" stroke-linecap="square"></path>
+                </g>
+                <text id="Shop-Owner-Name" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="35" y="292">Shop Owner Name</tspan>
+                </text>
+                <text id="Dashboard" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="38" y="396">Dashboard</tspan>
+                </text>
+                <text id="Message-Center" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="38" y="446">Message Center</tspan>
+                </text>
+                <text id="My-Shop" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#868686">
+                    <tspan x="38" y="496">My Shop</tspan>
+                </text>
+                <rect id="Rectangle-145" fill="#E2E2E2" sketch:type="MSShapeGroup" x="272" y="122" width="261" height="206"></rect>
+                <rect id="Rectangle-145" fill="#E2E2E2" sketch:type="MSShapeGroup" x="272" y="362" width="261" height="206"></rect>
+                <rect id="Rectangle-145" fill="#E2E2E2" sketch:type="MSShapeGroup" x="578" y="122" width="408" height="206"></rect>
+                <rect id="Rectangle-145" fill="#E2E2E2" sketch:type="MSShapeGroup" x="578" y="362" width="408" height="206"></rect>
+                <g id="Rectangle-38-+-Line-+-Line" transform="translate(365.000000, 167.000000)" stroke="#979797" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-38" fill="#D8D8D8" x="0" y="0" width="76" height="76"></rect>
+                    <path d="M0.666666667,0.666666667 L74,74" id="Line" stroke-linecap="square"></path>
+                    <path d="M2,75.3333333 L75.3333333,0.666666667" id="Line" stroke-linecap="square"></path>
+                </g>
+                <text id="Shop-Name" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="355" y="279">Shop Name</tspan>
+                </text>
+                <text id="edit" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="392" y="298">edit</tspan>
+                </text>
+                <text id="Shop-Hours" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="734" y="394">Shop Hours</tspan>
+                </text>
+                <text id="Shop-Address" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="726" y="164">Shop Address</tspan>
+                </text>
+                <text id="Current-Message" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="333" y="394">Current Message</tspan>
+                </text>
+                <text id="Menu" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="606" y="647">Menu</tspan>
+                </text>
+                <text id="1234-Shop-Address-Ln" sketch:type="MSTextLayer" font-family="Helvetica" font-size="18" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="604" y="233">1234 Shop Address Ln, Charlotte, NC 28202</tspan>
+                </text>
+                <text id="edit" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="775" y="258">edit</tspan>
+                </text>
+                <text id="Sunday" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" line-spacing="22" fill="#A5A5A5">
+                    <tspan x="636" y="431">Sunday</tspan>
+                    <tspan x="636" y="453">Monday</tspan>
+                    <tspan x="636" y="475">Tuesday</tspan>
+                    <tspan x="636" y="497">Wednesday</tspan>
+                    <tspan x="636" y="519">Thursday</tspan>
+                    <tspan x="636" y="541">Friday</tspan>
+                </text>
+                <rect id="Rectangle-151" fill="#F0F0F0" sketch:type="MSShapeGroup" x="296" y="426" width="209" height="88"></rect>
+                <text id="Current-Message-Here" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="22" fill="#A5A5A5">
+                    <tspan x="332" y="470">Current Message Here</tspan>
+                </text>
+                <text id="edit" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" fill="#A5A5A5">
+                    <tspan x="296" y="546">edit</tspan>
+                </text>
+                <text id="7am" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" line-spacing="22" fill="#A5A5A5">
+                    <tspan x="816" y="431">7am</tspan>
+                    <tspan x="816" y="453">7am</tspan>
+                    <tspan x="816" y="475">7am</tspan>
+                    <tspan x="816" y="497">7am</tspan>
+                    <tspan x="816" y="519">7am</tspan>
+                    <tspan x="816" y="541">7am</tspan>
+                </text>
+                <text id="to" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" line-spacing="22" fill="#A5A5A5">
+                    <tspan x="862" y="431">to</tspan>
+                    <tspan x="862" y="453">to</tspan>
+                    <tspan x="862" y="475">to</tspan>
+                    <tspan x="862" y="497">to</tspan>
+                    <tspan x="862" y="519">to</tspan>
+                    <tspan x="862" y="541">to</tspan>
+                </text>
+                <text id="9pm" sketch:type="MSTextLayer" font-family="Helvetica" font-size="13" font-weight="normal" line-spacing="22" fill="#A5A5A5">
+                    <tspan x="896" y="431">9pm</tspan>
+                    <tspan x="896" y="453">9pm</tspan>
+                    <tspan x="896" y="475">9pm</tspan>
+                    <tspan x="896" y="497">9pm</tspan>
+                    <tspan x="896" y="519">9pm</tspan>
+                    <tspan x="896" y="541">9pm</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

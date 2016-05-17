@@ -1,0 +1,19 @@
+.footer{
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+  padding:20px 0 20px 0;
+}
+p.footer-text{
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  color: #555;
+  font-weight: 100;
+}
+.icon-footer{
+  color: #ddd;
+  font-size: 2em;
+  padding-right: 15px;
+}
+a:hover .icon-footer{
+  color: #000;
+  -webkit-transition: all 800ms ease;
+}

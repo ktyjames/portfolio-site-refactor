@@ -1,0 +1,116 @@
+.jumbotron{
+  background-image: url('/img/bg-min-blur.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.portrait{
+  border-radius: 200px;
+  width: 150px;
+}
+.logo{
+  width: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  opacity: .85;
+}
+a:hover .logo{
+  opacity: 1;
+  -webkit-transition: all 800ms ease;
+}
+.name{
+  visibility: hidden;
+  margin-top:40px;
+}
+.info{
+  visibility: hidden;
+  margin-top:5px;
+  margin-bottom: 50px;
+}
+/* PROJECTS */
+.bg-acbj{
+  background-image: url('/img/acbj-header.jpg');
+  background-size: cover;
+  transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.bg-crema{
+  background-image: url('/img/crema-header.jpg');
+  background-size: cover;
+  transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+.bg-hemmings{
+  background-image: url('/img/hemmings-header.jpg');
+  background-size: cover;
+  transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+.bg-mixlab{
+    background-image:url('/img/mixlab-header.jpg');
+  background-size: cover;
+  transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+div.bg-mixlab:hover, div.bg-hemmings:hover, div.bg-crema:hover, div.bg-acbj:hover {
+  opacity: 0.7;
+
+}
+img{
+  width:100%;
+}
+/* MARGINS */
+.m-t-sp{
+  margin-top: 22px;
+}
+.m-t-xs{
+  margin-top:5px;
+}
+.m-t-sm{
+  margin-top: 15px;
+}
+.m-t-md{
+  margin-top: 25px;
+}
+.m-t-lg{
+  margin-top:80px;
+}
+.m-l-md{
+  margin-left: 25px;
+}
+.m-l-sm{
+  margin-left: 15px;
+}
+.m-b-none{
+  margin-bottom: 0px;
+}
+.m-b-md{
+  margin-bottom: 25px;
+}
+.m-b-lg{
+  margin-bottom: 50px;
+}
+/* FONT AWESOME */
+.fa-2{
+  font-size: 1em;
+}
+.fa-3{
+  font-size: 1.5em;
+}
+/* MEDIA QUERIES */
+
+@media (max-width: 767px){
+  .logo{
+    margin-left:10px;
+  }
+  .name{
+    text-align: center;
+  }
+  .info{
+    text-align: center;
+  }
+}

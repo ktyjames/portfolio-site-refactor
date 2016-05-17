@@ -1,0 +1,19 @@
+extends layout
+
+block main
+  .jumbotron 
+    .container
+      .row.m-t-lg
+        .col-sm-10.col-sm-offset-1
+          .row
+            .col-sm-3.col-sm-offset-1.text-center
+              img.portrait.animated.slideInLeft(src='/img/katy.jpg', alt='Me')
+            .col-sm-7.m-t-sm
+              p.white.animated.slideInRight.m-t-xs
+                | Hi there! I'm a Digital Product Designer who's passionate about UX, UI, and Interaction design. I love creating easy-to-use, stunning interfaces that are innovative, charming, engaging, and exciting.
+  .container.nav-shift
+    .row
+      .col-sm-10.col-sm-offset-1.text-center
+        h2.black.m-b-lg Check out my case studies:
+  include ./partials/_acbj
+  include ./partials/_crema

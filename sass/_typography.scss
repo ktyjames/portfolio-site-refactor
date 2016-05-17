@@ -1,0 +1,63 @@
+h1{
+  font-family: 'Cantarell', Helvetica, Arial, sans-serif;
+  color: #fff !important;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2em !important;
+}
+h2{
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  color: #fff !important;
+  font-weight: 100;
+  font-size: 2em !important;
+}
+h3{
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  color: black;
+  font-weight: 300;
+  font-size: 28px;
+  margin-top: 50px;
+}
+h4{
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  color: gray;
+  font-weight: 300;
+  font-size: 24px;
+  margin-top: 50px;
+}
+p{
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  color: #000;
+  font-weight: 100;
+  font-size: 1.6em !important;
+}
+
+a {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  color: #000;
+  font-weight: 100;
+}
+a:hover{
+  text-decoration: none;
+}
+button {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  color: #000;
+  font-weight: 100;
+}
+small{
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  color: #424242;
+}
+
+.white{
+  color:#fff;
+}
+.black{
+  color:#000 !important;
+}
+@media (max-width: 768px) {
+  p {
+  font-weight: 300 !important;
+  }
+}
